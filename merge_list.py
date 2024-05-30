@@ -6,7 +6,6 @@ import openpyxl
 import pandas as pd
 import numpy as np
 
-sys.setrecursionlimit(10000)
 pd.set_option('display.max_rows',None)
 pd.set_option('display.max_columns',None)
 
